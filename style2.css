@@ -1,0 +1,37 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    font-size: 4em;
+    font-family: "Comic Sans MS", "Comic Sans";
+    position: relative;
+}
+
+.dialogue {
+    font-family: "Kalam";
+    color:antiquewhite;
+}
+
+#incBtn {
+    position: relative;
+    left: 5em;
+    font-size: 0.25em;
+    font-family: "Comic Sans MS", "Comic Sans";
+}
+
+.tajuk {
+    display: flex;
+    position: relative;
+    left: 22.5em;
+    font-size: 2em;
+    font-family: "Comic Sans MS", "Comic Sans";
+}
+
+.tajuk2 {
+    display: flex;
+    position: relative;
+    left: 43.5em;
+    font-size: 1em;
+    font-family: "Comic Sans MS", "Comic Sans";
+    font-style: italic;
+}
